@@ -8,3 +8,5 @@ Run :
 
 
 Or launch the notebook here: 
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/shreyasbapat/Python-Web-Microframeworks-Tutorial/master?filepath=slides.ipynb)
